@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "dom221-lsG7.aternos.me:32033",
+    "ip": "dom221-lsG7.aternos.me",
     "port": 32033,
     "version": "",
     "try-creative": false
